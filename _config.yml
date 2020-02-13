@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+#post_asset_folder: false
 relative_link: false
 future: true
 highlight:
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: 3-hexo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -101,5 +101,8 @@ deploy:
   type: ''
 
 # Personal
-avatar: /img/hehe.jpg
-favicon: /img/hoho.jpg
+#avatar: /img/hehe.jpg
+#favicon: /img/hoho.jpg
+
+# add asset dir to ref imgs
+post_asset_folder: true
