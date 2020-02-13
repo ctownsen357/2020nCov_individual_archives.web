@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 2020 nCov Individual Stories
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: 
 language: en
 timezone: ''
 
@@ -54,7 +54,7 @@ highlight:
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
-# per_page: Posts displayed per page. (0 = disable pagination)
+# per_page: P:osts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: 3-hexo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
