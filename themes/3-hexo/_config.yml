@@ -7,27 +7,28 @@ favicon: /img/avatar.jpg
 # 比如访问地址为 yelog.org/blog 那就需要配置为 blog_path: /blog 才能正常访问
 blog_path: /
 
+avatar: /img/hehe.jpg
+favicon: /img/hoho.jpg
+
 #链接图标 显示顺序和下面顺序一致
 link:
-  theme: color # 链接样式，color: 彩色图标  white: 黑白图标
+  theme: white # 链接样式，color: 彩色图标  white: 黑白图标
   items:
-    rss: /atom.xml
-    github: https://github.com/yelog
-    facebook: https://www.facebook.com/faker.tops
+    #rss: /atom.xml
+    github: https://github.com/jiayiliujiayi
+    facebook:
     twitter:
     linkedin:
-    instagram: https://www.facebook.com/faker.tops
-    reddit: https://www.reddit.com/user/yelog/
-    weibo: http://weibo.com/u/2307534817
-    jianshu: https://www.jianshu.com/u/ff56736de7cf
-    zhihu: https://www.zhihu.com/people/jaytp/activities
+    weibo: 
+    jianshu: 
+    zhihu: 
     csdn:
-    oschina: https://my.oschina.net/yelog
+    oschina: 
     juejin:
-    email: jaytp@qq.com
-    qq: 872336115
-    kugou: https://www.kugou.com/
-    neteasemusic: https://music.163.com/#/user/home?id=88151013
+    email: 
+    qq: 
+    kugou: 
+    neteasemusic: 
 
 ##########多作者模式############
 author:
@@ -76,11 +77,11 @@ menu:
 # 文末声明
 article_txt: 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 jaytp@qq.com
 
-bottom_text: ©2016-2019 Yelog
+bottom_text: ©2019 
 # 自定义页面最下方的站点版权信息
 # 如果不填，则自定义为 ©2017 author (这个author为hexo根目录_config.yml中配置的)
 
-reward: true
+reward: 
 # true 开启打赏功能
 
 searchAll: false
@@ -93,7 +94,7 @@ searchAll: false
 #   field: post
 
 
-copyright: true
+copyright: false
 # Copyright info. of post | 文末版权信息
 
 word_count: false
@@ -206,7 +207,7 @@ mermaid:
 
 # 友情链接
 friends:
-  叶落阁: http://yelog.org/
+  #叶落阁: http://yelog.org/
 
 ##########评论设置#############
 comment:
@@ -230,11 +231,11 @@ gentie:
   # 网易云跟帖暂时不支持查询评论数，所以启用时，把评论数关掉，上方comment_count: false。
 
 gitalk:
-  githubID: yelog
-  repo: yelog.github.io
+  githubID: jiayiliujiayi 
+  repo: 
   ClientID:
   ClientSecret:
-  adminUser: yelog
+  adminUser: jiayiliu
   distractionFreeMode: true
   language: zh-CN
   perPage: 10
