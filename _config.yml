@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+#post_asset_folder: false
 relative_link: false
 future: true
 highlight:
@@ -103,3 +103,6 @@ deploy:
 # Personal
 #avatar: /img/hehe.jpg
 #favicon: /img/hoho.jpg
+
+# add asset dir to ref imgs
+post_asset_folder: true
