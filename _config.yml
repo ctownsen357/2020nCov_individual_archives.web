@@ -98,7 +98,10 @@ theme: 3-hexo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/jiayiliujiayi/2020nCov_individual_archives.web
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: master
 
 # Personal
 #avatar: /img/hehe.jpg
