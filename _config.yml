@@ -101,5 +101,5 @@ deploy:
   type: ''
 
 # Personal
-avatar: /img/hehe.jpg
-favicon: /img/hoho.jpg
+#avatar: /img/hehe.jpg
+#favicon: /img/hoho.jpg
